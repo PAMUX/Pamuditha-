@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "616146838765",
+    "firebase_url": "https://restaurant-9ab78.firebaseio.com",
+    "project_id": "restaurant-9ab78",
+    "storage_bucket": "restaurant-9ab78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616146838765:android:88432c90078a38082958e4",
+        "android_client_info": {
+          "package_name": "com.rajendra.foodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616146838765-i8d48oeipmthoug9384mqne5p4rlc11j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rajendra.foodapp",
+            "certificate_hash": "76450b8da5e2680608e606a69503e03e036822c1"
+          }
+        },
+        {
+          "client_id": "616146838765-is1ngn8hhrnhg061eg6i2hbgha14og08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoIEuzNkZ6IA_WXwXycz-f9j73Aa-zbi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616146838765-a7sgt1r947h5bpuen56hth9a6dm36j2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
